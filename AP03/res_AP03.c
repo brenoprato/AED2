@@ -1,5 +1,5 @@
 /*
- * AED2 2026 (1S) - AP03 - QuickSort
+ * AED2 2026 - AP03 - QuickSort
  */
 
 #include <stdio.h>
